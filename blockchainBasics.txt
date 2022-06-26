@@ -1,0 +1,4 @@
+bit coin - limted amount as gold but it is digital - store of value and it is turing incomplet
+ethirum protocal - decenterlized aggrements and store of value
+block chain decentarized oracel - any device which provides external data or computation for decentralized aggrements - off chain
+hybrid smart contract - chainlink it is oracel provides random numbers computation and all
